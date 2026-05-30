@@ -59,10 +59,10 @@ vão crescer mais do que deveriam.
 ```bash
 caya@atlantis:~$ status
 
-[✓] learning rust
-[✓] learning c
-[✓] improving linux knowledge
-[✓] exploring operating systems
+[ ] learning c
+[ ] learning ruby
+[ ] improving linux knowledge
+[ ] exploring operating systems
 [ ] finishing old projects
 ```
 
@@ -71,19 +71,11 @@ caya@atlantis:~$ status
 ## tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,c,rust,python,git,github,vim,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,gamemakerstudio,c,ruby,git,github,vim,bash" />
 </p>
 
 ---
 
-## github stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
-
----
 
 ```bash
 caya@atlantis:~$ git log --oneline
