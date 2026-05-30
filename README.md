@@ -28,16 +28,6 @@ Languages: C • Rust • Python
 
 <br>
 
-## about me
-
-gosto de entender como as coisas funcionam por trás das interfaces.
-
-normalmente estou lendo documentação, configurando meu sistema,
-aprendendo algo novo ou começando projetos aleatórios que provavelmente
-vão crescer mais do que deveriam.
-
----
-
 ## interests
 
 ```txt
